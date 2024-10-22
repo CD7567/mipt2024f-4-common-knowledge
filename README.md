@@ -6,3 +6,4 @@
 
 Наиболее удобно будет создавать ветки и директории по названию частей приложения. Общие замечания и table of contents поместим здесь.
 
+**Инструмент для разметки**: [VGG Annotator Version 2.0.12](https://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html)
