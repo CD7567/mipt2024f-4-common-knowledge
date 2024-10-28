@@ -6,3 +6,4 @@
 
 Наиболее удобно будет создавать ветки и директории по названию частей приложения. Общие замечания и table of contents поместим здесь.
 
+[**Информация по разметке**](https://github.com/CD7567/mipt2024f-4-common-knowledge/blob/BarcodeClassificator/annotation.md)
