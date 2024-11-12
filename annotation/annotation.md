@@ -14,12 +14,12 @@
 Начало полигона - левая нижняя точка относительно эталонного представления штрих кода. Ориентация положительная. Точнее говоря, при обходе границы область должна оставаться слева.
 
 **Тип штрих-кода**
-[Подробнее тут](https://github.com/CD7567/mipt2024f-4-common-knowledge/blob/BarcodeClassificator/BarcodeTypes/README.md)
+[Подробнее тут](../BarcodeTypes/README.md)
 
 *Атрибуты разметки типа:*
 
 
-![region_attributes](https://github.com/CD7567/mipt2024f-4-common-knowledge/blob/BarcodeClassificator/BarcodeTypes/img/region_attributes_type.png)
+![region_attributes](../BarcodeTypes/img/region_attributes_type.png)
 
 
 
@@ -31,6 +31,6 @@
 *Атрибуты разметки целостности:*
 
 
-![region_attributes](https://github.com/CD7567/mipt2024f-4-common-knowledge/blob/BarcodeClassificator/BarcodeTypes/img/region_attributes_integrity.png)
+![region_attributes](../BarcodeTypes/img/region_attributes_integrity.png)
 
 *Вообще я выделила еще штрих коды, которые размазаны сильно в класс unknown. Ибо они вроде и целые, но и почти наверное их нельзя будет распознать из-за качества штрих кода. Дальше разберемся, будем ли их выносить в отдельный класс. Поэтому ставьте `code is cutten off` только тем, кто обрезан настолько, что это помешает дальнейшей работе.*
