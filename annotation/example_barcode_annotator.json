@@ -36,20 +36,18 @@
       "regions": [
         {
           "shape_attributes": {
-            "name": "polyline",
+            "name": "polygon",
             "all_points_x": [
-              463,
-              660,
+              465,
+              656,
               596,
-              401,
-              464
+              404
             ],
             "all_points_y": [
               389,
               329,
-              127,
-              190,
-              387
+              133,
+              192
             ]
           },
           "region_attributes": {
@@ -59,48 +57,23 @@
         },
         {
           "shape_attributes": {
-            "name": "polyline",
+            "name": "polygon",
             "all_points_x": [
-              687,
-              826,
+              688,
+              823,
               770,
-              632,
-              686
+              637
             ],
             "all_points_y": [
-              321,
+              320,
               278,
-              103,
-              146,
-              320
+              108,
+              150
             ]
           },
           "region_attributes": {
             "type": "ean_8",
             "code integrity": "valid"
-          }
-        },
-        {
-          "shape_attributes": {
-            "name": "polyline",
-            "all_points_x": [
-              1,
-              362,
-              362,
-              1,
-              1
-            ],
-            "all_points_y": [
-              453,
-              455,
-              224,
-              227,
-              452
-            ]
-          },
-          "region_attributes": {
-            "type": "generic1d",
-            "code integrity": "invalid"
           }
         }
       ],
