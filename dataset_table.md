@@ -8,7 +8,8 @@
 | [ Konovalov Valentin ](https://github.com/valkon29)  | [тык](https://github.com/valkon29/mipt2024f_konovalov_v_r/tree/master/images)|
 | [ Yakovenko Ilya ](https://github.com/IlyaYakovenko) | [коды](https://github.com/IlyaYakovenko/mipt2024f_yakovenko_i_o/tree/main/barcodes_real_photo) [разметка](https://github.com/IlyaYakovenko/mipt2024f_yakovenko_i_o/tree/main/annotations)|
 | [ Levin Leonid ](https://github.com/LeNcHic)         | [тык](https://github.com/LeNcHic/mipt2024f_levin_l_i/tree/main/dataset)      |
-| [ Konev Sergey ](https://github.com/Darisishe)         | [тык](https://github.com/Darisishe/mipt2024f_konev_s_a/tree/main/data)      |
+| [ Konev Sergey ](https://github.com/Darisishe)         | [тык](https://github.com/Darisishe/mipt2024f_konev_s_a/tree/main/data)     |
+|  [ Dankov Nikita ](https://github.com/DogPierr/mipt2024f_dankov_n_s/tree/main/training_data)         | [разметка](https://github.com/DogPierr/mipt2024f_dankov_n_s/blob/main/annotations.json)                                                    |
 |                                                      |                                                                              |
 |                                                      |                                                                              |
 |                                                      |                                                                              |
